@@ -4,7 +4,7 @@
 
 # 📃 **Sobre**
 
-Site criado para por em prática os conhecimentos de CSS Grid e CSS Flexbox em prática.
+Site criado para por em prática os conhecimentos de CSS Grid e CSS Flexbox.
 
 ![Print full size do site](/assets/img/full-size.png)
 
